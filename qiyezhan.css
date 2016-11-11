@@ -76,26 +76,9 @@
 .hengtiao1 ul li a{ text-decoration:none;font-size:12px;color:#999898;}
 .hengtiao1 .right{width:470px;height:206px;margin:24px 0px;background:#fdfbfa;float:right;}
 .hengtiao1 .right .biaozhi{width:120px;height:146px;padding:30px 10px;float:left;}
-.tankuai a{display:block;width:65px;height:40px;border-radius:8px;background:#fca812;text-decoration:none;text-align:center;float:left;font-size:12px;color:white;padding:5px 0px;margin-right:15px;}
+.tankuai a h3{display:block;width:65px;height:40px;border-radius:8px;background:#fca812;text-decoration:none;text-align:center;float:left;font-size:12px;color:white;padding:5px 0px;margin-right:15px;}
 .tankuai a{display:block;width:65px;height:40px;border-radius:8px;background:#fdd388;color:grey;}
-.renzheng{width:100%;max-width:1600px;min-width:980px;height:354px;margin:0px auto;}
+.renzheng h1{width:100%;max-width:1600px;min-width:980px;height:354px;margin:0px auto;}
 .renzheng1{width:100%;max-width:980px;height:354px;margin:0px auto;overflow:hidden;}
 .renzheng1 .left{width:470px;height:300px;margin:24px 0px;float:left;}
 .renzheng1 .right{width:470px;height:300px;margin:24px 0px;float:right;}
-.renzheng1 h3{font-size:18px;color:#2a2f2a;margin:20px 0px 10px 15px;}
-.renzheng1 ul{border-top:1px solid #2cae68;padding:5px 5px;}
-.renzheng1 ul li{list-style:none;float:left;padding:1px 1px 0px;border:1px solid #e4e3e3;margin:2px 2px;}
-.hezuo{width:100%;max-width:1600px;min-width:980px;height:174px;margin:0px auto;}
-.hezuo1{width:100%;max-width:980px;height:174px;margin:0px auto;overflow:hidden;}
-.hezuo1 h3{font-size:18px;color:#2a2f2a;margin:20px 0px 10px 15px;}
-.hezuo1 ul{border-top:1px solid #2cae68;padding:5px 5px;}
-.hezuo1 ul li{list-style:none;float:left;margin:4px 13px;}
-.xinxi{width:100%;max-width:1600px;min-width:980px;height:172px; background:#059346;margin:0px auto;}
-.xinxi1{width:100%;max-width:980px;height:172px;margin:0px auto;overflow:hidden;position:relative;}
-.xinxi1 p{color:white;font-size:12px;font-family:宋体;margin:40px 0px 0px 100px;line-height:20px;text-align:center;width:674px;height:96px;}
-.xinxi1 ul{position:absolute;bottom:18px;right:55px;}
-.xinxi ul li{list-style:none;float:left;margin:0px -40px;width:170px;}
-.xinxi ul li img{position:relative;top:-25px;left:65px;width:50px;}
-.xinxi ul li a{color:white;text-decoration:none;font-size:14px;}
-.xinxi ul li img:hover{width:60px;}
-.xinxi ul li a:hover{color:black;}
